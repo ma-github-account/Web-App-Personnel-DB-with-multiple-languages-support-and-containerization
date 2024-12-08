@@ -1,4 +1,4 @@
-This application is a Personnel BD with multiple languages support. Top panel contains language dropdown. User can change the language using it.
+This application is a Personnel DB with multiple languages support. Top panel contains language dropdown. User can change the language using it.
 
 Prerequisites are contained in the requirements.txt file in main folder.
 

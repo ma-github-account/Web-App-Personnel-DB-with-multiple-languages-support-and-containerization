@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-07 16:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\contacts_organizer\settings.py:139
+msgid "English"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:140
+msgid "French"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:141
+msgid "Spanish"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:142
+msgid "Japanese"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:143
+msgid "Korean"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:144
+msgid "Russian"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:145
+msgid "Arabic"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:146
+msgid "Hindi"
+msgstr ""
+
+#: .\contacts_organizer\urls.py:26
+msgid "admin/"
+msgstr ""
+
+#: .\organizer\templates\organizer\base.html:10
+#: .\organizer\templates\organizer\base.html:50 .\organizer\views.py:75
+msgid "hello"
+msgstr "Buenos Dias"
+
+#: .\organizer\templates\organizer\base.html:16
+msgid "Personnel Information Database"
+msgstr "Base de datos de información de personal"
+
+#: .\organizer\templates\organizer\base.html:27
+msgid "Language"
+msgstr "Idioma"
+
+#: .\organizer\templates\organizer\base.html:51
+msgid "How are you?"
+msgstr "¿Cómo estás?"
+
+#: .\organizer\templates\organizer\base.html:57
+msgid "Go to Main View"
+msgstr "Ir a la vista principal"
+
+#: .\organizer\templates\organizer\contact\add.html:6
+msgid "Add New Personnel Record"
+msgstr "Agregar nuevo registro de personal"
+
+#: .\organizer\templates\organizer\contact\add.html:10
+msgid "Fill the form to add new contact"
+msgstr "Rellena el formulario para añadir nuevo contacto"
+
+#: .\organizer\templates\organizer\contact\detail.html:11
+msgid "Personal Data Details"
+msgstr "Datos de contacto"
+
+#: .\organizer\templates\organizer\contact\detail.html:12
+msgid "First Name"
+msgstr "Nombre de pila"
+
+#: .\organizer\templates\organizer\contact\detail.html:13
+msgid "Last Name"
+msgstr "Apellido"
+
+#: .\organizer\templates\organizer\contact\detail.html:14
+#: .\organizer\templates\organizer\contact\list.html:22
+msgid "Personal Phone"
+msgstr "Teléfono Personal"
+
+#: .\organizer\templates\organizer\contact\detail.html:15
+#: .\organizer\templates\organizer\contact\list.html:23
+msgid "Work Phone"
+msgstr "Teléfono del Trabajo"
+
+#: .\organizer\templates\organizer\contact\detail.html:16
+msgid "Address"
+msgstr "Dirección"
+
+#: .\organizer\templates\organizer\contact\list.html:11
+msgid "Personnel Information"
+msgstr "Información Personal"
+
+#: .\organizer\templates\organizer\contact\list.html:15
+msgid ""
+"This is a Personnel Information Database. Records contain first name, last "
+"name, personal phone number, work phone number and the address. Link at the "
+"end leads to detail view. There is a possibility to add new record. If you "
+"wish to do so, the link is below the table."
+msgstr "Esta es una base de datos de información de personal. Los registros contienen nombre, apellido, número de teléfono personal, número de teléfono del trabajo y dirección. El enlace al final lleva a la vista de detalles. Existe la posibilidad de agregar un nuevo registro. Si lo desea, el enlace se encuentra debajo de la tabla."
+
+#: .\organizer\templates\organizer\contact\list.html:20
+msgid "First name"
+msgstr "Nombre de pila"
+
+#: .\organizer\templates\organizer\contact\list.html:21
+msgid "Last name"
+msgstr "Apellido"
+
+#: .\organizer\templates\organizer\contact\list.html:24
+msgid "Link to details"
+msgstr "Enlace a los detalles"
+
+#: .\organizer\templates\organizer\contact\list.html:34
+msgid "Contact details"
+msgstr "Datos de contacto"
+
+#: .\organizer\templates\organizer\contact\list.html:43
+msgid "Add new contact"
+msgstr "Agregar nuevo contacto"

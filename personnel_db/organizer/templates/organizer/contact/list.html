@@ -1,0 +1,83 @@
+{% extends "organizer/base.html" %}
+{% load static %}
+{% load i18n %}
+
+{% block content %}
+
+
+
+
+	<div id="main" class="contact-list">
+		<h1>{% translate "Personnel Information" %}</h1>
+
+
+			<div class="application_information">
+	  			<p>{% translate "This is a Personnel Information Database. Records contain first name, last name, personal phone number, work phone number and the address. Link at the end leads to detail view. There is a possibility to add new record. If you wish to do so, the link is below the table." %}</p>
+			</div>
+
+		<table>
+			<tr>
+			  <th>{% translate "First name" %}</th>
+			  <th>{% translate "Last name" %}</th>
+			  <th>{% translate "Personal Phone" %}</th>
+			  <th>{% translate "Work Phone" %}</th>
+			  <th>{% translate "Link to details" %}</th>
+			</tr>
+
+			{% for contact in contacts %}
+
+			<tr>
+				<td>{{ contact.fname }}</td>
+				<td>{{ contact.lname }}</td>
+				<td>{{ contact.personal_phone }}</td>
+				<td>{{ contact.work_phone }}</td>
+				<td><a href="{{ contact.get_absolute_url }}">{% translate "Contact details" %}</a></td>
+			</tr>
+
+			{% endfor %}
+
+		</table>
+
+		<br>
+
+        <a href="add/">{% translate "Add new contact" %}</a>
+	</div>
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

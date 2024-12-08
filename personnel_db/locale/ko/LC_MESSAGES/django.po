@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-07 16:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\contacts_organizer\settings.py:139
+msgid "English"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:140
+msgid "French"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:141
+msgid "Spanish"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:142
+msgid "Japanese"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:143
+msgid "Korean"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:144
+msgid "Russian"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:145
+msgid "Arabic"
+msgstr ""
+
+#: .\contacts_organizer\settings.py:146
+msgid "Hindi"
+msgstr ""
+
+#: .\contacts_organizer\urls.py:26
+msgid "admin/"
+msgstr ""
+
+#: .\organizer\templates\organizer\base.html:10
+#: .\organizer\templates\organizer\base.html:50 .\organizer\views.py:75
+msgid "hello"
+msgstr "안녕하세요"
+
+#: .\organizer\templates\organizer\base.html:16
+msgid "Personnel Information Database"
+msgstr "인사정보 데이터베이스"
+
+#: .\organizer\templates\organizer\base.html:27
+msgid "Language"
+msgstr "언어"
+
+#: .\organizer\templates\organizer\base.html:51
+msgid "How are you?"
+msgstr ""
+
+#: .\organizer\templates\organizer\base.html:57
+msgid "Go to Main View"
+msgstr "메인보기로 이동"
+
+#: .\organizer\templates\organizer\contact\add.html:6
+msgid "Add New Personnel Record"
+msgstr "새로운 인사 기록 추가"
+
+#: .\organizer\templates\organizer\contact\add.html:10
+msgid "Fill the form to add new contact"
+msgstr "새로운 연락처를 추가하려면 양식을 작성하세요"
+
+#: .\organizer\templates\organizer\contact\detail.html:11
+msgid "Personal Data Details"
+msgstr "연락처 정보"
+
+#: .\organizer\templates\organizer\contact\detail.html:12
+msgid "First Name"
+msgstr "이름"
+
+#: .\organizer\templates\organizer\contact\detail.html:13
+msgid "Last Name"
+msgstr "성"
+
+#: .\organizer\templates\organizer\contact\detail.html:14
+#: .\organizer\templates\organizer\contact\list.html:22
+msgid "Personal Phone"
+msgstr "개인 전화"
+
+#: .\organizer\templates\organizer\contact\detail.html:15
+#: .\organizer\templates\organizer\contact\list.html:23
+msgid "Work Phone"
+msgstr "직장 전화"
+
+#: .\organizer\templates\organizer\contact\detail.html:16
+msgid "Address"
+msgstr "주소"
+
+#: .\organizer\templates\organizer\contact\list.html:11
+msgid "Personnel Information"
+msgstr "인사정보"
+
+#: .\organizer\templates\organizer\contact\list.html:15
+msgid ""
+"This is a Personnel Information Database. Records contain first name, last "
+"name, personal phone number, work phone number and the address. Link at the "
+"end leads to detail view. There is a possibility to add new record. If you "
+"wish to do so, the link is below the table."
+msgstr "이것은 인사 정보 데이터베이스입니다. 기록에는 이름, 성, 개인 전화번호, 직장 전화번호 및 주소가 포함됩니다. 마지막에 있는 링크는 세부 보기로 연결됩니다. 새 기록을 추가할 가능성이 있습니다. 추가하려면 링크가 표 아래에 있습니다."
+
+#: .\organizer\templates\organizer\contact\list.html:20
+msgid "First name"
+msgstr "이름"
+
+#: .\organizer\templates\organizer\contact\list.html:21
+msgid "Last name"
+msgstr "성"
+
+#: .\organizer\templates\organizer\contact\list.html:24
+msgid "Link to details"
+msgstr "자세한 내용 링크"
+
+#: .\organizer\templates\organizer\contact\list.html:34
+msgid "Contact details"
+msgstr "연락처 정보"
+
+#: .\organizer\templates\organizer\contact\list.html:43
+msgid "Add new contact"
+msgstr "새로운 연락처 추가"
